@@ -22,11 +22,11 @@
 
         A variable declared with let or const cannot be accessed until it is declared within its scope.
 
-  - What is Recurrion?
+- What is Recurrion?
 
         Recursion is when a function calls itself until someone stops it. If no one stops it then it'll
         recurse (call itself) forever.
-  - What is Closure?
+- What is Closure?
 
         A closure is the combination of a function bundled together which gives you
         access to an outer function's scope from an inner function
