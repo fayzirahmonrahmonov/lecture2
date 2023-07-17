@@ -12,4 +12,10 @@
   
   Block scope: This scope restricts the variable that is declared
               inside a specific block, from access by the outside of the block.
-  
+      
+  - What is Hoisting ?
+        Hoisting is a JavaScript mechanism where variables and function
+        declarations are moved to the top of their scope before code
+        execution.
+  - Temporal Dead Zone ?
+        A variable declared with let or const cannot be accessed until it is declared within its scope.
