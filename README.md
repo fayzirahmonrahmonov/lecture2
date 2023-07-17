@@ -12,7 +12,8 @@
   
   Block scope: This scope restricts the variable that is declared
               inside a specific block, from access by the outside of the block.
-      
+
+# Hoisting
 - What is Hoisting ?
   
         Hoisting is a JavaScript mechanism where variables and function
@@ -22,10 +23,12 @@
 
         A variable declared with let or const cannot be accessed until it is declared within its scope.
 
+# Recurrion
 - What is Recurrion?
 
         Recursion is when a function calls itself until someone stops it. If no one stops it then it'll
         recurse (call itself) forever.
+# Closure
 - What is Closure?
 
         A closure is the combination of a function bundled together which gives you
