@@ -1,4 +1,4 @@
-# lecture2
+# Lecture2
 # Scope
 - What is a scope in js ?
 
